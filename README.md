@@ -16,13 +16,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ../doc/architecture.PNG "Model Visualization"
-[image2]: ../doc/line_center.jpg "Line center"
-[image3]: ../doc/recovery.jpg "Recovery Image"
-[image4]: ../doc/recovery2.jpg "Recovery Image"
-[image5]: ../doc/recovery_difficult.jpg "Recovery Image"
-[image6]: ../doc/2nd_track.jpg "Normal Image"
-[image7]: ../doc/ "Flipped Image"
+[image1]: doc/architecture.PNG "Model Visualization"
+[image2]: doc/line_center.jpg "Line center"
+[image3]: doc/recovery.jpg "Recovery Image"
+[image4]: doc/recovery2.jpg "Recovery Image"
+[image5]: doc/recovery_difficult.jpg "Recovery Image"
+[image6]: doc/2nd_track.jpg "Normal Image"
+[image7]: doc/ "Flipped Image"
 
 
 ### Files Submitted & Code Quality
